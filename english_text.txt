@@ -1,0 +1,594 @@
+Dog:سگ
+Cat:گربه
+Fish:ماهی
+Bird:پرنده
+Cow:گاو
+Pig:خوک
+Mouse:موش
+Horse:اسب
+Wing:بال
+Animal:حیوان
+TRANSPORTATION:حمل و نقل
+Train:قطار
+(train) ticket:بلیط قطار
+Plane:هواپیما
+Car:ماشین
+Truck:کامیون
+Bicycle:دوچرخه
+Bus:اتوبوس
+Boat:قایق
+Ship:کشتی
+Tire:لاستیک
+Gasoline:بنزین
+Engine:موتور
+LOCATION:محل
+City : شهر
+house : خانه
+apartment : آپارتمان
+street : خیابان
+road : جاده
+airport : فرودگاه
+train station : ایستگاه قطار
+bridge : پل
+hotel : هتل
+restaurant : رستوران
+farm : مزرعه
+court : دادگاه
+school : مدرسه
+office : اداره
+room : اتاق
+Town : شهر
+university : دانشگاه
+club : کلوب، باشگاه
+bar : میکده
+park : پارک
+camp : اردوگاه
+store : مغازه
+shop : فروشگاه
+theater : تئاتر
+library : کتابخانه
+hospital : بیمارستان
+church : کلیسا
+market : مغازه
+country : کشور
+building : ساختمان
+ground : زمین
+space : فضا
+bank : بانک
+CLOTHING پوشاک
+hat : کلاه
+dress : لباس
+suit : کتوشلوار
+skirt : دامن
+shirt : پیراهن
+t:shirt : تیشرت
+pants : شلوار
+shoes : کفش
+pocket : جیب
+coat : کت
+stain : لکه
+COLOR رنگ
+red : قرمز
+green : سبز
+blue (light /dark ) :) آبی )روشن / تیره
+yellow : زرد
+brown : قهوهای
+pink : صورتی
+orange : نارنجی
+black : سیاه
+white : سفید
+gray : خاکستری
+PEOPLE افراد/مردم
+son : پسر
+daughter : دختر
+mother : مادر
+father : پدر
+parent : والدین
+baby : نوزاد
+man : مرد
+woman : زن
+brother : برادر
+sister : خواهر
+family : خانواده
+grandfather : پدربزرگ
+grandmother : مادربزرگ
+husband : شوهر
+wife : زن
+king : پادشاه
+queen : ملکه
+president : رئیسجمهور
+neighbor : همسایه
+boy : پسر
+girl : دختر
+child : ) کودک ) هم پسر هم دختر
+adult : ) بزرگسال )هم زن هم مرد
+human : انسان
+friend : دوست
+victim : قربانی
+player : بازیکن
+fan : هوادار
+crowd : جمعیت
+person : شخص
+JOB شغل
+teacher : معلم
+student : دانشآموز
+lawyer : وکیل
+doctor : دکتر
+patient : بیمار
+waiter : پیشخدمت
+secretary : منشی
+priest : کشیش
+police : پلیس
+army : ارتش
+soldier : سرباز
+artist : هنرمند
+author : نویسنده
+manager : مدیر
+reporter : گزارشگر
+actor : بازیگر
+SOCIETY جامعه
+religion : مذهب
+heaven : بهشت
+hell : جهنم
+death : مرگ
+medicine : داروی پزشکی
+money : پول
+dollar دلار
+bill : اسکناس
+marriage : ازدواج
+wedding : عروسی
+team : تیم
+relationship : رابطه
+race : نژاد
+sex (gender) : جنسیت
+murder : قتل
+prison : زندان
+technology : تکنولوژی
+energy : انرژی
+war : جنگ
+peace : صلح
+attack : حمله
+election : انتخابات
+magazine : مجله
+Newspaper : روزنامه
+Poison : سم
+Gun : تفنگ
+Sport : ورزش
+Race (sport) : مسابقه ورزشی
+Exercise : ورزش
+Ball : توپ
+Game : بازی
+Price : قیمت
+Contract : قرارداد
+Drug : دارو
+Sign : امضا کردن
+Science : علم
+God : خدا
+ART هنر
+band : باند و گروه موزیک
+song : آهنگ
+instrument (musical) : ابزار موسیقی
+music : موسیقی
+movie : فیلم
+art : هنر
+BEVERAGES نوشیدنی
+coffee : قهوه
+tea : چایی
+wine : شراب
+beer : آبجو
+juice : آبمیوه
+water : آب
+milk : شیر
+beverage نوشیدنی
+FOOD غذا
+egg : تخممرغ
+cheese : پنیر
+bread : نان
+soup : سوپ
+cake : کیک
+chicken : جوجه
+pork : گوشت خوک
+beef : گوشت گاو
+apple : سیب
+banana : موز
+orange : پرتقال
+lemon : لیمو
+corn : ذرت
+rice : برنج
+oil : روغن
+seed : بذر
+knife : چاقو
+spoon : قاشق
+fork : چنگال
+plate : بشقاب
+cup : فنجان
+breakfast : صبحانه
+lunch : نهار
+dinner : شام
+sugar : شکر
+salt : نمک
+bottle : بطری
+Food غذا
+HOME خانه /منزل
+table : میز
+chair : صندلی
+bed : تختخواب
+dream : خواب/رویا
+window : پنجره
+door : در
+bedroom : اتاق خواب
+kitchen : آشپزخانه
+bathroom : حمام
+pencil : مداد
+pen : خودکار
+photograph : عکس
+soap : صابون
+book : کتاب
+page : صفحه
+key : کلید
+paint : نقاشی
+letter : نامه
+note : یادداشت
+wall : دیوار
+paper : کاغذ
+floor : کف
+ceiling : سقف
+roof : بام
+pool : استخر
+lock : قفل
+telephone : تلفن
+garden : باغ
+yard : حیاط
+needle : سوزن
+bag : کیف
+box : جعبه
+gift : هدیه
+card کارت
+ring : حلقه
+tool : ابزار
+ELECTRONICS الکترونیک
+clock : ساعت
+lamp : لامپ
+fan : بادبزن
+cell phone : موبایل
+network شبکه
+computer : کامپیوتر
+program (computer) : ) برنامه )کامپیوتری
+laptop : لپتاپ
+screen : صفحه
+camera : دوربین
+television : تلویزیون
+radio : رادیو
+BODY بدن
+head : سر
+neck : گردن
+face : صورت
+beard : ریش
+hair : مو
+eye : چشم
+mouth : دهان
+lip : لب
+nose : بینی
+tooth : دندان
+ear : گوش
+tear (drop ) : ) اشک )قطره
+tongue : زبان
+back : پشت
+toe : انگشت شست
+finger : انگشت
+foot : پا
+hand : دست
+leg : پا
+arm : بازو
+shoulder : شانه
+heart : قلب
+blood : خون
+brain : مغز
+knee : زانو
+sweat : عرق
+disease : بیماری
+bone : استخوان
+voice : صدا
+skin : پوست
+NATURE طبیعت
+sea : دریا
+ocean : اقیانوس
+river : رودخانه
+mountain : کوه
+rain : باران
+snow : برف
+tree : درخت
+sun : خورشید
+moon : ماه
+world : دنیا
+earth : زمین
+forest : جنگل
+sky : آسمان
+plant : گیاه
+wind : باد
+earth : زمین
+soil : خاک
+flower : گل
+valley : دره
+root : ریشه
+lake : دریاچه
+star : ستاره
+grass : سبزه
+leaf : برگ
+air : هوا
+sand : شن
+beach : ساحل
+wave : موج
+fire : آتش
+ice : یخ
+island : جزیره
+hill : تپه
+heat : گرما
+MATERIALS مواد
+glass : ,شیشه
+metal : ,فلز
+plastic : پلاستیک
+wood : چوب
+stone : سنگ
+diamond : الماس
+clay : گِل
+dust : غبار
+gold : طلا
+copper : مس
+silver : نقره
+MATH/MEASUREMENTS ریاضی /اندازه گیری
+meter : متر
+centimeter : سانتیمتر
+kilogram : کیلوگرم
+Inch : اینچ
+Foot ) فوت)پا
+Pound پوند
+half : نصف
+circle : دایره
+square : مربع
+temperature : دما
+date : تاریخ
+weight : وزن
+edge : لبه
+corner : گوشه
+MISC NOUNS اسامی گوناگون
+map : نقشه
+dot : نقطه
+consonant : صامت
+vowel : مصوت
+light : نور
+sound : صدا
+yes : بله
+no : نه
+piece : تکه
+pain : درد
+injury : زخم
+hole : سوراخ
+image : تصویر
+pattern : الگو
+noun : اسم
+verb : فعل
+adjective : صفت
+DIRECTIONS جهت ها
+top : رو
+bottom : پایین
+side : کنار
+front : جلو
+back : پشت
+outside : بیرون
+inside : داخل
+up : بالا
+down : پایین
+left : چپ
+right : راست
+straight : مستقیم
+north : شمال
+south : جنوب
+east : شرق
+west : غرب
+SEASONS فصل ها
+summer : تابستان
+spring : بهار
+winter : زمستان
+fall : پاییز
+NUMBERS اعداد
+Million میلیون
+Billion میلیارد
+1st اول
+2nd دوم
+3rd سوم
+4th چهارم
+5th پنجم
+MONTHS ماه ها
+January ژانویه
+February فوریه
+March مارس
+April آوریل
+May می
+June جون
+July جولای
+August آگوست
+September سپتامبر
+October اکتبر
+November نوامبر
+December دسامبر
+DAYS OF THE WEEK روزای هفته
+Saturday : شنبه
+Sunday : یکشنبه
+Monday : دوشنبه
+Tuesday : سهشنبه
+Wednesday : چهارشنبه
+Thursday : پنجشنبه
+Friday : جمعه
+TIME زمان
+year : سال
+month : ماه
+week : هفته
+day : روز
+hour : ساعت
+minute : دقیقه
+second : ثانیه
+morning : صبح
+afternoon : عصر
+evening : غروب
+night : شب
+VERBS افعال
+work : کار کردن
+play : بازی کردن
+walk : راه رفتن
+run : دویدن
+drive : رانندگی کردن
+fly : پرواز کردن
+swim : شنا کردن
+go : رفتن
+stop : ایستادن
+follow : دنبال کردن
+think : فکر کردن
+say : حرف زدن
+speak : گفتن
+eat : خوردن
+drink : نوشیدن
+kill : کشتن
+die : مردن
+smile : لبخند زدن
+laugh : خندیدن
+cry : گریه کردن
+buy : خریدن
+pay : پرداخت کردن
+sell : فروختن
+shoot : شلیک کردن
+learn : یاد گرفتن
+jump : پریدن
+smell : بو کردن
+hear (a sound) : ) شنیدن )مثلاً یک صدا
+listen (music) : ) گوش کردن )مثلاً موزیک
+taste : چشیدن
+touch : لمس کردن
+see : دیدن
+watch (TV) : ) نگاه کردن )مثلاً تلویزیون
+kiss : بوسیدن
+burn : سوختن
+melt : ذوب شدن
+dig : حفر کردن
+explode : منفجر شدن
+sit : نشستن
+stand : ایستادن
+love : دوست شدن
+pass by : رد شدن
+cut : بریدن
+fight : جنگیدن
+lie down : دراز کشیدن
+dance : رقصیدن
+sleep : خوابیدن
+wake up : بیدار شدن
+sing : آواز خواندن
+count : شمردن
+marry : ازدواج کردن
+pray : دعا کردن
+win : برنده شدن
+lose : باختن
+mix : ترکیب کردن
+stir : هم زدن
+bend : خم شدن
+wash : شستن
+cook : پختن
+open : باز کردن
+close : بستن
+write : نوشتن
+call : صدا زدن
+turn : چرخیدن
+build : ساختن
+teach : درس دادن
+grow : رشد کردن
+draw : نقاشی کشیدن
+feed : غذا دادن
+catch : گرفتن
+throw : پرت کردن
+clean : تمیز کردن
+find : پیدا کردن
+fall : افتادن
+push : هل دادن
+pull : کشیدن
+carry : حمل کردن
+break : شکستن
+wear : پوشیدن
+hang : آویزان کردن
+shake : لرزاندن
+sign : امضا زدن
+beat : زدن
+lift : بلند کردن
+ADJECTIVES صفات
+long : بلند و طولانی
+short : کوتاه
+tall : دراز و بلند
+short : کوتاه
+wide : پهن
+narrow : باریک
+big /large : بزرگ
+small : کوچک
+little : کم
+slow : کند
+fast : تند
+hot : داغ
+cold : سرد
+warm : گرم
+cool : سرد
+new : تازه
+old : کهنه
+young : جوان
+old : پیر
+good : خوب
+bad : بد
+wet : خیس
+dry : خشک
+sick : بیمار
+healthy : سالم
+loud : صدای بلند
+quiet : ساکت
+happy : خوشحال
+sad : غمگین
+beautiful : زیبا
+ugly : زشت
+deaf : کر
+blind : کور
+nice : خوب
+mean : بدجنس
+rich : پولدار
+poor : فقیر
+thick : ضخیم
+thin : نازک
+expensive : گران
+cheap : ارزان
+flat : صاف
+curved : انحنادار
+male : مرد
+female : زن
+tight : تنگ
+loose : شل
+high : مرتفع/بلند
+low : کوتاه
+soft : نرم
+hard : سخت
+deep : عمیق
+shallow : سطحی
+clean : تمیز
+dirty : کثیف
+strong : قوی
+weak : ضعیف
+dead : مرده
+alive : زنده
+heavy : سنگین
+light : سبک
+dark : تاریکی
+light : روشنایی
+nuclear : هستهای
+famous : مشهور
+PRONOUNS ضمیرها
+I : من
+you : تو
+he : ) او )خانم
+she : ) او )آقا
+it : آن
+we : ما
+you : شما
+they : آنها
