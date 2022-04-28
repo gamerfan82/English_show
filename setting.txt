@@ -1,2 +1,2 @@
-level :35
-today :118
+level :1
+today :1
